@@ -758,6 +758,7 @@ input[type='checkbox'] {
 }
 
 .header .header-content {
+	padding-top: 8rem;
 	padding-bottom: 4rem;
 	text-align: center;
 }
@@ -1548,6 +1549,7 @@ a:hover.back-to-top {
 /*     19. Extra Pages     */
 /***************************/
 .ex-header {
+	padding-top: 8rem;
 	padding-bottom: 5rem;
 	text-align: center;
 }
@@ -1633,7 +1635,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header .header-content {
-		padding-top: 0rem;
+		padding-top: 10.5rem;
 	}
 
 	.header h1 {
@@ -1751,13 +1753,13 @@ a:hover.back-to-top {
 
 	.navbar-custom .nav-item .nav-link {
 		padding: 0.25rem 0.75rem 0.25rem 0.75rem;
-		color: rgb(0, 0, 0);
+		color: #fff;
 		opacity: 0.8;
 	}
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: rgb(0, 0, 0);
+		color: #fff;
 		opacity: 1;
 	}
 
@@ -1854,8 +1856,9 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header {
-		width: fit-content;
 		background: center center no-repeat;
+		width: 100px;
+		height: 100px;
 	}
 
 	.header .header-content {
