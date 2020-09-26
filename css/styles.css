@@ -758,7 +758,6 @@ input[type='checkbox'] {
 }
 
 .header .header-content {
-	padding-top: 8rem;
 	padding-bottom: 4rem;
 	text-align: center;
 }
@@ -1549,7 +1548,6 @@ a:hover.back-to-top {
 /*     19. Extra Pages     */
 /***************************/
 .ex-header {
-	padding-top: 8rem;
 	padding-bottom: 5rem;
 	text-align: center;
 }
@@ -1635,7 +1633,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header .header-content {
-		padding-top: 5.5rem;
+		padding-top: 0rem;
 	}
 
 	.header h1 {
@@ -1856,6 +1854,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header {
+		width: fit-content;
 		background: center center no-repeat;
 		background-size: cover; 
 	}
