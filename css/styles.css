@@ -1635,7 +1635,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header .header-content {
-		padding-top: 10.5rem;
+		padding-top: 5.5rem;
 	}
 
 	.header h1 {
@@ -1753,13 +1753,13 @@ a:hover.back-to-top {
 
 	.navbar-custom .nav-item .nav-link {
 		padding: 0.25rem 0.75rem 0.25rem 0.75rem;
-		color: #fff;
+		color: rgb(0, 0, 0);
 		opacity: 0.8;
 	}
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: #fff;
+		color: rgb(0, 0, 0);
 		opacity: 1;
 	}
 
