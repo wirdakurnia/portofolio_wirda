@@ -1856,6 +1856,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header {
+		background: center center no-repeat;
 		background-size: cover; 
 	}
 
