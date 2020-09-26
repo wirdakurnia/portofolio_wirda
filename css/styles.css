@@ -1856,7 +1856,6 @@ a:hover.back-to-top {
 	.header {
 		width: fit-content;
 		background: center center no-repeat;
-		background-size: cover; 
 	}
 
 	.header .header-content {
